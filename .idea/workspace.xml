@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09fce36d-1a7c-497a-9968-97abae11ac66" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1mhR7xQXAkmM2FJsUpgSyZ7Njg2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/features" />
+      <recent name="$PROJECT_DIR$/drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SearchForDoctorsTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hooks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automation-e2e-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.Hooks" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utils" />
+      <option name="MAIN_CLASS_NAME" value="utils.Hooks" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchForDoctorsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automation-e2e-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.Hooks" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SearchForDoctorsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchForDoctorsTest.removerUmContatoDeUmUsuario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automation-e2e-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.Hooks" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SearchForDoctorsTest" />
+      <option name="METHOD_NAME" value="removerUmContatoDeUmUsuario" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchForDoctorsTest.searchForDoctorsRJ" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automation-e2e-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SearchForDoctorsTest" />
+      <option name="METHOD_NAME" value="searchForDoctorsRJ" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchForDoctorsTest.searchForSpecificDoctor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automation-e2e-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SearchForDoctorsTest" />
+      <option name="METHOD_NAME" value="searchForSpecificDoctor" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="webdriverJava" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Hooks" />
+      <item itemvalue="JUnit.SearchForDoctorsTest" />
+      <item itemvalue="JUnit.SearchForDoctorsTest.removerUmContatoDeUmUsuario" />
+      <item itemvalue="JUnit.SearchForDoctorsTest.searchForDoctorsRJ" />
+      <item itemvalue="JUnit.SearchForDoctorsTest.searchForSpecificDoctor" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SearchForDoctorsTest" />
+        <item itemvalue="JUnit.SearchForDoctorsTest.searchForSpecificDoctor" />
+        <item itemvalue="JUnit.SearchForDoctorsTest.searchForDoctorsRJ" />
+        <item itemvalue="JUnit.Hooks" />
+        <item itemvalue="JUnit.SearchForDoctorsTest.removerUmContatoDeUmUsuario" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09fce36d-1a7c-497a-9968-97abae11ac66" name="Default" comment="" />
+      <created>1508006240860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508006240860</updated>
+      <workItem from="1609943675703" duration="2013000" />
+      <workItem from="1609957259195" duration="18908000" />
+      <workItem from="1610024952715" duration="2271000" />
+      <workItem from="1610069283233" duration="956000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="405" y="54" width="545" height="626" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1609959663554">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="405" y="54" width="545" height="626" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.741@0.0.1366.741" timestamp="1609959663554" />
+    <state x="416" y="120" width="524" height="493" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609965975098">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="416" y="120" width="524" height="493" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.741@0.0.1366.741" timestamp="1609965975098" />
+    <state width="1324" height="169" key="GridCell.Tab.0.bottom" timestamp="1610069479942">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1324" height="169" key="GridCell.Tab.0.bottom/0.0.1366.741@0.0.1366.741" timestamp="1610069479942" />
+    <state width="1324" height="169" key="GridCell.Tab.0.center" timestamp="1610069479941">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1324" height="169" key="GridCell.Tab.0.center/0.0.1366.741@0.0.1366.741" timestamp="1610069479941" />
+    <state width="1324" height="169" key="GridCell.Tab.0.left" timestamp="1610069479941">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1324" height="169" key="GridCell.Tab.0.left/0.0.1366.741@0.0.1366.741" timestamp="1610069479941" />
+    <state width="1324" height="169" key="GridCell.Tab.0.right" timestamp="1610069479942">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1324" height="169" key="GridCell.Tab.0.right/0.0.1366.741@0.0.1366.741" timestamp="1610069479942" />
+    <state width="1324" height="212" key="GridCell.Tab.1.bottom" timestamp="1609972274974">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1324" height="212" key="GridCell.Tab.1.bottom/0.0.1366.741@0.0.1366.741" timestamp="1609972274974" />
+    <state width="1324" height="212" key="GridCell.Tab.1.center" timestamp="1609972274974">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1324" height="212" key="GridCell.Tab.1.center/0.0.1366.741@0.0.1366.741" timestamp="1609972274974" />
+    <state width="1324" height="212" key="GridCell.Tab.1.left" timestamp="1609972274974">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1324" height="212" key="GridCell.Tab.1.left/0.0.1366.741@0.0.1366.741" timestamp="1609972274974" />
+    <state width="1324" height="212" key="GridCell.Tab.1.right" timestamp="1609972274974">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1324" height="212" key="GridCell.Tab.1.right/0.0.1366.741@0.0.1366.741" timestamp="1609972274974" />
+    <state x="216" y="27" width="924" height="679" key="Maven.ArtifactSearchDialog" timestamp="1609957610560">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="216" y="27" width="924" height="679" key="Maven.ArtifactSearchDialog/0.0.1366.741@0.0.1366.741" timestamp="1609957610560" />
+    <state x="412" y="106" width="555" height="540" key="StructurePopup" timestamp="1609960770155">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="412" y="106" width="555" height="540" key="StructurePopup/0.0.1366.741@0.0.1366.741" timestamp="1609960770155" />
+    <state x="393" y="109" width="580" height="520" key="find.popup" timestamp="1609965708645">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="393" y="109" width="580" height="520" key="find.popup/0.0.1366.741@0.0.1366.741" timestamp="1609965708645" />
+    <state x="347" y="18" width="672" height="676" key="search.everywhere.popup" timestamp="1609971710013">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="347" y="18" width="672" height="676" key="search.everywhere.popup/0.0.1366.741@0.0.1366.741" timestamp="1609971710013" />
+  </component>
+</project>
